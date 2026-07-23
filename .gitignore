@@ -1,0 +1,5 @@
+"lint-staged": {
+  "client/**/*.{ts,tsx,js,jsx,json,css,md}": [
+    "prettier --write"
+  ]
+}
