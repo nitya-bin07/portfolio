@@ -1,5 +1,5 @@
-"lint-staged": {
-  "client/**/*.{ts,tsx,js,jsx,json,css,md}": [
-    "prettier --write"
-  ]
-}
+node_modules
+.env
+.env.local
+.env.*.local
+dist
