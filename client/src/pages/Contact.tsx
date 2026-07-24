@@ -32,7 +32,7 @@ export default function Contact() {
           rel="noreferrer"
           className="flex items-center gap-3 text-foreground hover:text-accent transition-colors"
         >
-          <FileCode2 className="size-5" />
+          <Code2 className="size-5" />
           github.com/nitya-bin07
         </a>
         <a
